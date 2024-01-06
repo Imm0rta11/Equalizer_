@@ -1,1 +1,1 @@
-# Equalizer_C-
+# Equalizer_C++
